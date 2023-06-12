@@ -1,3 +1,0 @@
-MentalHealthAndroid为话心app前端安卓代码源码；
-MentalHealthServer为话心app后端java代码源码；
-mentalhealth_empty为数据库中的建表语句。
