@@ -6,5 +6,7 @@ MentalHealthAndroid is the front end source code for huaxin application；
 MentalHealthServer is the back end source code；
 mentalhealth_empty includes comments to build database。
 
-#display
+![image](Desktop/display_image/register1.jpg)
 ![image](Desktop/display_image/login.jpg)
+< img src="https://github.com/leah-lllllll/online-counselling-platform/blob/master/Desktop/display_image/register1.jpg" width="200" height="200"/><br/>
+
