@@ -1,4 +1,3 @@
-# online-counselling-platform
 Android Studio and Spring Boot were used to implement the front and back end of the software, and MySQL was used to implement the database.
 Implemented conversation, social media sharing, and counseling service reservation functions;
 Implemented client-side and consultant-side.
